@@ -30,12 +30,25 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Improvements you can perform
 
-Enhance Movie Search App UI
-Incorporate Loading Spinner
-Implement Movie Details (more of them)
-Integrate Additional API (Any - IMDB rating or so)
-Implement Search History 
-Error Handling (A better one)
-Favorite Movies List (Different tab)
+- **Enhance Movie Search App UI**
+  Improve the user interface for a more visually appealing experience.
+
+- **Incorporate Loading Spinner**
+  Implement a loading spinner to provide visual feedback during data retrieval.
+
+- **Implement Movie Details (more of them)**
+  Expand the movie details section to include more comprehensive information.
+
+- **Integrate Additional API (Any - IMDB rating or so)**
+  Extend functionality by integrating an additional API, such as fetching and displaying IMDB ratings.
+
+- **Implement Search History**
+  Add a feature to store and display search history for user convenience.
+
+- **Error Handling (A better one)**
+  Enhance error handling mechanisms for a more robust and user-friendly application.
+
+- **Favorite Movies List (Different tab)**
+  Introduce a separate tab or section to display a list of user-favorite movies.
 
 
