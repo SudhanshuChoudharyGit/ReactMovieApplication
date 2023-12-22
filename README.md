@@ -27,3 +27,15 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+
+### Improvements you can perform
+
+Enhance Movie Search App UI
+Incorporate Loading Spinner
+Implement Movie Details (more of them)
+Integrate Additional API (Any - IMDB rating or so)
+Implement Search History 
+Error Handling (A better one)
+Favorite Movies List (Different tab)
+
+
